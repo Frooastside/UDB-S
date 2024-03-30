@@ -2542,7 +2542,7 @@
   (gr_arc (start 147 90.5) (mid 151.5 95) (end 147 99.5) (layer "Edge.Cuts") (width 0.1) (tstamp 518fc64e-e515-493d-b8ac-b8e63ec17f17))
   (gr_line (start 147 90.5) (end 116 90.499999) (layer "Edge.Cuts") (width 0.1) (tstamp 6e91eb45-f7ff-473b-9e51-d59feb65d356))
   (gr_line (start 116 99.500001) (end 147 99.5) (layer "Edge.Cuts") (width 0.1) (tstamp a43eea28-c799-4b65-93b4-70c66ba7b464))
-  (gr_text "Unified-S1 V1.1\nwww.unified-\ndaughterboard.github.io" (at 126.25 95) (layer "B.SilkS") (tstamp 5716acd0-994d-4f69-9718-98b630263be0)
+  (gr_text "Unified-S1 V1.1\nunified-\ndaughterboard.github.io" (at 126.25 95) (layer "B.SilkS") (tstamp 5716acd0-994d-4f69-9718-98b630263be0)
     (effects (font (size 0.8 0.8) (thickness 0.2)) (justify mirror))
   )
   (gr_text "USE ONLY\nuDB CABLES" (at 122 92.3) (layer "F.SilkS") (tstamp 8681acb6-0078-4aa2-b5e1-e530899ba340)
